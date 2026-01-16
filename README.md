@@ -73,4 +73,4 @@
 ---
 
 <!-- Snake output: only keep after output branch exists -->
-<!-- <img src="https://raw.githubusercontent.com/hishambarakat16/hishambarakat16/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/hishambarakat16/hishambarakat16/output/github-contribution-grid-snake.svg" alt="Snake animation" />
