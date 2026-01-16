@@ -30,6 +30,9 @@
 
 <br clear="both"/>
 
+<!-- Snake output: only keep after output branch exists -->
+<img src="https://raw.githubusercontent.com/hishambarakat16/hishambarakat16/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 ---
 
 ## Featured
@@ -71,6 +74,3 @@
 </p>
 
 ---
-
-<!-- Snake output: only keep after output branch exists -->
-<img src="https://raw.githubusercontent.com/hishambarakat16/hishambarakat16/output/github-contribution-grid-snake.svg" alt="Snake animation" />
