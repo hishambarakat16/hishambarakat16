@@ -1,77 +1,49 @@
-<!-- Profile README — Hisham Barakat -->
+<h2 align="left">Hi 👋! My name is Hihsam Barakat and I'm an AI Engineer, from The Kingdom of Bahrain</h2>
 
-<h1 align="left">Hisham Barakat</h1>
-<p align="left">
-  ML/AI Engineer • Applied Research • Open Source<br/>
-  Building production-minded AI systems: LLM apps, retrieval, and ML pipelines.
-</p>
+###
 
-<p align="left">
-  <a href="https://hishambarakat.dev">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/hishambarakat">LinkedIn</a> ·
-  <a href="mailto:Hishambarakat16@gmail.com">Email</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## Focus areas
-- **LLM applications**: RAG systems, role-based responses, tool orchestration, reliability.
-- **Production ML engineering**: model serving, low-latency APIs, deployment, CI/CD.
-- **Open source**: framework-level contributions and infrastructure-quality code.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## Featured work (start here)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 1) TensorLayerX (Open Source)
-**Large-scale deep learning + RL framework ecosystem.**  
-My most significant open-source signal: framework contribution work (multi-backend focus, engineering reliability).
+###
 
-- Repo: https://github.com/tensorlayer/TensorLayerX
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### 2) RealESRGAN TensorRT Upscaler
-**High-performance super-resolution pipeline accelerated with NVIDIA TensorRT.**  
-Optimization + deployment mindset: turning research-grade CV components into a practical pipeline.
+###
 
-- Repo: https://github.com/hishambarakat16/RealESRGAN-TensorRT-Upscaler
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## Selected projects
-- **English Accent Analyzer** — audio analysis demo with a clean UI and practical signal/feature workflow  
-  https://github.com/hishambarakat16/english-accent-analyzer
-- **LunarLander (Custom Rewards)** — RL training + reward shaping experiment  
-  https://github.com/hishambarakat16/LunarLander-CustomRewards
-
----
-
-## Experience snapshot
-- **Lead AI Engineer (Beijing, CN)** — agent systems (OpenAI SDK + LangChain), hybrid retrieval (VectorDB + SQL), MCP tool servers (stdio/SSE), and production API serving (FastAPI; 30+ models), with CI/CD + Docker microservices deployments. :contentReference[oaicite:0]{index=0}  
-- Previously: **IP Engineer (Huawei)**, **Data Science & AI Engineer (Tatweer Petroleum)**, **Solutions Architect (AWS)**. :contentReference[oaicite:1]{index=1}  
-
----
-
-## Tech I use
-**Python**, **FastAPI**, **Postgres/SQL**, **Docker**, **Kubernetes**, **Git**, **AWS**  
-**PyTorch**, **TensorFlow**, **LangChain**, **Vector DBs**, **MCP tooling**
-
----
-
-## Education & credentials
-- **M.S. Computer Science (AI), Peking University** (expected 2026) :contentReference[oaicite:2]{index=2}  
-- **AWS Certified (ML Specialty)** :contentReference[oaicite:3]{index=3}  
-
----
-
-## What I care about (engineering principles)
-- **Measurable outcomes** (latency, cost, accuracy, robustness)
-- **Maintainable design** (simple abstractions, typed interfaces, testability)
-- **Production reliability** (timeouts, retries, observability, safe tool usage)
-
----
-
-## Contact
-If you want to discuss ML/AI delivery, open-source collaboration, or a role:
-- Email: Hishambarakat16@gmail.com  
-- Portfolio: https://hishambarakat.dev  
-- LinkedIn: https://www.linkedin.com/in/hishambarakat
+###
